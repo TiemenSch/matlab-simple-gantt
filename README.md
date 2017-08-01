@@ -11,3 +11,6 @@
 ## Returns:
 * ``fig``: Figure handle
 * ``ax``: Axis handle
+
+## Example:
+![Example Gantt Chart](./gantt_chart.png)
