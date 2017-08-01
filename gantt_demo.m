@@ -1,7 +1,6 @@
 clear
 close all
-
-help(gantt_chart);
+help gantt_chart
 
 % Import demo .csv (look inside for headers!)
 ganttData = importdata('gantt.csv');
